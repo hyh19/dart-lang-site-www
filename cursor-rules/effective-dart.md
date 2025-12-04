@@ -5,17 +5,6 @@ alwaysApply: true
 
 # Effective Dart
 
-## When to Use
-
-This guide helps you navigate the four Effective Dart rules and determine which to apply in different situations:
-
-- **Starting a new Dart project or package** - Understand which rules apply to different aspects of development
-- **Reviewing code** - Quickly identify which rules to reference for specific issues
-- **Learning Dart conventions** - Build a mental model of how the rules work together
-- **Generating or refactoring code** - Know which guidelines apply to your current task
-
-The four Effective Dart rules are complementary and often overlap. This guide helps you find the right information quickly.
-
 ## Quick Reference
 
 | Rule | Purpose | When to Use | Key Focus Areas |

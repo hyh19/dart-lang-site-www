@@ -2,7 +2,7 @@
 description: Comprehensive guidelines for designing consistent, usable Dart APIs covering naming, types, classes, members, parameters, and equality. Use when creating libraries, designing APIs, or architecting Dart applications.
 ---
 
-# Dart Design Guidelines
+# Effective Dart: Design
 
 ## When to Use
 

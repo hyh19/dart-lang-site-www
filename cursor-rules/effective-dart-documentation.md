@@ -2,7 +2,7 @@
 description: Guidelines for writing clear, effective Dart documentation and comments following Effective Dart standards. Use when writing or reviewing Dart code documentation.
 ---
 
-# Dart Documentation Guidelines
+# Effective Dart: Documentation
 
 ## When to Use
 

@@ -1,5 +1,6 @@
 ---
 description: Guidelines for using Dart language features to write maintainable code. Covers libraries, null safety, strings, collections, functions, variables, members, constructors, error handling, and asynchrony.
+alwaysApply: false
 ---
 
 # Effective Dart: Usage

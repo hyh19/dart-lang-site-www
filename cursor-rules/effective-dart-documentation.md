@@ -1,5 +1,6 @@
 ---
 description: Guidelines for writing clear, effective Dart documentation and comments following Effective Dart standards. Use when writing or reviewing Dart code documentation.
+alwaysApply: false
 ---
 
 # Effective Dart: Documentation

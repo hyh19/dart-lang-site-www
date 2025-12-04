@@ -1,5 +1,6 @@
 ---
 description: Dart style guide for consistent naming, ordering, and formatting. Use when writing or reviewing Dart code to ensure it follows official Effective Dart conventions.
+alwaysApply: false
 ---
 
 # Effective Dart: Style
